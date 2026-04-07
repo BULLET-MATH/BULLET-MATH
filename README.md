@@ -72,8 +72,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
           <br>
           $\color{#E05B34}{\textsf{🌣}}$ <a href="https://github.com/Vexuliii"><ins>Vexulii</ins></a>
           <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{Mr. Puzzles fans, so sorry guys but I hate}}$<br>
-          $\color{#73C7C7}{\textsf{anything and everything to do with him}}$<br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{Mr. Puzzles skins, so sorry guys but I have}}$<br>
+          $\color{#73C7C7}{\textsf{a vendetta against him}}$
           <a href="https://www.tumblr.com/modmad/812256923227488256/re-smg4-mr-puzzles?source=share">(link to why)</a>
           <br>
           $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{Generally, I don't want to interact with folks}}$<br>
